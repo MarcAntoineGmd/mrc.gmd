@@ -9,15 +9,10 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game
 ## Connect with me !
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/marc-antoine-gaumond-b9b609396" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://devpost.com/marcus-stradivarius?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/519940783089123348" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/marc-antoine-gaumond-b9b609396" target="_blank"><img border="0" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://devpost.com/marcus-stradivarius?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img border="0" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
+  <a href="mailto:marcusstradivarius@gmail.com"><img border="0" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/519940783089123348"><img border="0" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ## Tech Stack :
