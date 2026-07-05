@@ -6,8 +6,6 @@
 
 Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game development and the technical side of building games. I enjoy creating gameplay systems, exploring how game engines work, and taking on challenging projects. When I'm not busy with school, you'll usually find me participating in hackathons or working on personal game projects.
 
----
-
 ## Connect with me !
 
 <p align="left">
@@ -21,8 +19,6 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## Tech Stack :
 
@@ -47,7 +43,5 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
 
 Always building, learning, and experimenting with new ideas.
