@@ -4,7 +4,7 @@
 
 ## About me :
 
-Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game development and the technical side of building games. I enjoy creating gameplay systems, exploring how game engines work, and taking on challenging projects. When I'm not busy with school, you'll usually find me participating in hackathons or working on personal projects.
+Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game development and the technical side of building applications and games. I enjoy creating gameplay systems, exploring how game engines work, and taking on challenging projects. When I'm not busy with school, you'll usually find me participating in hackathons or working on personal projects.
 
 ## Connect with me !
 
